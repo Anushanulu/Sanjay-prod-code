@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Test_CSATM_Sanity_Script]">
+  <test name="Sanity Test">
+    <classes>
+      <class name="tnm_review_main.CreateRequest"/>
+    </classes>
+  </test> <!-- Sanity Test -->
+</suite> <!-- Failed suite [Test_CSATM_Sanity_Script] -->
